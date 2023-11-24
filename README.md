@@ -26,8 +26,8 @@ const guf1ck  = {
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guf1ck&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATS...&area=true">
 </div>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guf1ck&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guf1ck&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=twist0R&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=twist0R&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
 
  <h2 align="center">Discord Profile</h2><br>
