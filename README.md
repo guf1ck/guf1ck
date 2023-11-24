@@ -23,7 +23,7 @@ const guf1ck  = {
 [![Top Langs](https://github-readme-stats-ooliver1.vercel.app/api/top-langs?username=twist0R&theme=material-palenight&&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true)](https://github.com/twist0R)
 <br>
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=guf1ck&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATS...&area=true">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=twist0R&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATS...&area=true">
 </div>
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=twist0R&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
