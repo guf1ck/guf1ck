@@ -21,9 +21,6 @@ const guf1ck  = {
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&layout=compact)](https://github.com/guf1ck)
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
-<div>
-</div>
-<br>
 <br>
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
