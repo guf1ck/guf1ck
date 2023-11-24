@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7900&lines=Welcome+to+my+Profile..)](https://github.com/twist0R)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7900&lines=Welcome+to+my+Profile..)](https://github.com/guf1ck)
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
@@ -18,14 +18,13 @@ const guf1ck  = {
 ##
 ## 💻 Languages & Skills
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
-<br>
 <div>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=guf1ck&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=MY+GITHUB+STATS...&area=true">
 </div>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=guf1ck&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guf1ck&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
-</p>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guf1ck&layout=compact)](https://github.com/guf1ck)
+<br>
+<br>
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/">
