@@ -7,9 +7,9 @@ const guf1ck  = {
     age: 19,
     gender: "Male",
     from: ["Portugal", "Spain"],
-    NewAccountReason: "I loss all my BACKUP Codes & Authenticator and GitHub Team couln't help me, i hope one day i can get it again"
+    NewAccountReason: "Problems with Authentications and Backup Codes"
     askMeAbout:  {
-      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player", "Semi-Professional Asssetto Corsa Drift Racer"],
+      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Asssetto Corsa Drift Racer"],
         },
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
