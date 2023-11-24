@@ -3,10 +3,13 @@
 
 ```javascript
 const guf1ck  = {
-    pronouns: "Rafael", "Antunes",
-    WhyNewAccount?: "I loss all my BACKUP Codes & Authenticator and GitHub Team couln't help me, i hope one day i can get it again.."
+    pronouns: "Rafael Antunes",
+    age: 19,
+    gender: "Male",
+    from: ["Portugal", "Spain"],
+    NewAccountReason: "I loss all my BACKUP Codes & Authenticator and GitHub Team couln't help me, i hope one day i can get it again"
     askMeAbout:  {
-      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player"],
+      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Combat Arms Player", "Semi-Professional Asssetto Corsa Drift Racer"],
         },
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
@@ -15,7 +18,6 @@ const guf1ck  = {
 };
 ```
 
-##
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guf1ck&layout=compact)](https://github.com/guf1ck)
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
@@ -32,4 +34,4 @@ const guf1ck  = {
   <p align="center">
   <i>&nbsp; "Too many of us are not living our dreams because we are living our fears...."</i> 
  </div>
-<a href = "https://github.com/Anant-mishra1729?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
+<a href = "https://github.com/guf1ck"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
