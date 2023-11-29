@@ -1,4 +1,8 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7900&lines=Welcome+to+my+Profile..)](https://github.com/guf1ck)
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+guf1ck+aka.+ANTUNES;I'm+19+years+old)](https://github.com/guf1ck)
+</div>
+    
 ###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
 ```javascript
@@ -19,7 +23,7 @@ const guf1ck  = {
 ```
 
 ## 💻 Languages & Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&layout=compact)](https://github.com/guf1ck)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/guf1ck)
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
 <br>
  <h2 align="center">Discord Profile</h2><br>
