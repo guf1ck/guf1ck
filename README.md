@@ -18,7 +18,7 @@ const guf1ck  = {
     technologies: {
         databases: ["MySql","SQLite","MariaDB"]
     },
-    currentProjects: "Mercy Collective",
+    currentProjects: "Vanta Roleplay",
 };
 ```
 
