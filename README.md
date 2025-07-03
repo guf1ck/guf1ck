@@ -10,7 +10,7 @@ const guf1ck  = {
     pronouns: "Rafael Antunes",
     age: 19,
     gender: "Male",
-    from: ["Portugal", "Spain"],
+    from: ["Portugal"],
     NewAccountReason: "Problems with Authentications and Backup Codes"
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Asssetto Corsa Drift Racer"],
