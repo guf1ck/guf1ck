@@ -7,15 +7,15 @@ aboutMe.js
 ```javascript
 const guf1ck  = {
     pronouns: "Rafael Antunes",
-    age: 19,
+    age: 21,
     gender: "Male",
     from: ["Portugal"],
-    NewAccountReason: "Problems with Authentications and Backup Codes"
+    NewAccountReason: "Problems with Authentications and Backup Codes xD"
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Asssetto Corsa Drift Racer"],
         },
     technologies: {
-        databases: ["MySql","SQLite","MariaDB"]
+        databases: ["MySql","SQLite","MariaDB", "Supabase"]
     },
     currentProjects: "Karma Developments",
 };
