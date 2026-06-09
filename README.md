@@ -10,12 +10,12 @@ const guf1ck  = {
     age: 21,
     gender: "Male",
     from: ["Portugal"],
-    NewAccountReason: "Problems with Authentications and Backup Codes xD"
+    NewAccountReason: "Problems with Authentications and Backup Codes xD",
     askMeAbout:  {
       achievements: ["Multi-language Programmer Amateur", "Semi-Professional Asssetto Corsa Drift Racer"],
         },
     technologies: {
-        databases: ["MySql","SQLite","MariaDB", "Supabase"]
+        databases: ["MySql","SQLite","MariaDB", "Supabase"],
     },
     currentProjects: "Karma Developments",
 };
