@@ -2,23 +2,50 @@
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+guf1ck+aka.+ANTUNES;I'm+21+years+old)](https://github.com/guf1ck)
 </div>
-aboutMe.js
+## ⚡ aboutMe.jsx
 
-```javascript
-const guf1ck  = {
-    pronouns: "Rafael Antunes",
-    age: 21,
-    gender: "Male",
-    from: ["Portugal"],
-    NewAccountReason: "Problems with Authentications and Backup Codes xD",
-    askMeAbout:  {
-      achievements: ["Multi-language Programmer Amateur", "Semi-Professional Asssetto Corsa Drift Racer"],
-        },
-    technologies: {
-        databases: ["MySql","SQLite","MariaDB", "Supabase"],
-    },
-    currentProjects: "Karma Developments",
+```jsx
+const Rafael = () => {
+    return {
+        name: "Rafael Antunes",
+        alias: "guf1ck",
+        country: "Portugal 🇵🇹",
+
+        code: [
+            "JavaScript",
+            "TypeScript",
+            "Lua",
+            "PHP",
+            "Python"
+        ],
+
+        frameworks: [
+            "React",
+            "Next.js",
+            "Solid.js",
+            "Vue.js",
+            "Svelte",
+            "Astro",
+            "...etc"
+        ],
+
+        databases: [
+            "MySQL",
+            "MariaDB",
+            "SQLite",
+            "Supabase"
+        ],
+
+        currentlyWorkingOn: [
+            "Karma Developments",
+            "Luma Agency"
+        ],
+
+        lifeGoal: "Turn ideas into products used by thousands of people.",
+    };
 };
+
+export default Rafael;
 ```
 
 ## 💻 Languages & Skills
