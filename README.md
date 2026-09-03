@@ -1,52 +1,27 @@
+<h2 align="center">
+    <samp>&gt; HelloWorld(), I am <b><a target="_blank" href="https://zerofour04.me">Ben // Zerofour // 04</a></b></samp>
+    <a href="https://github.com/guf1ck"><img src="https://github.com/Zerofour04/Zerofour04/assets/60815764/fec2e9df-a845-444d-91b8-7d9b8b44dd41"></a>
+</h2>
+
+<!-- Terminal Section -->
 <div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=f9f9f9&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+guf1ck+aka.+ANTUNES;I'm+21+years+old)](https://github.com/guf1ck)
+
+<h3><code>guf1ck@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-portrait.svg" width="420" alt="ASCII Portrait"/></td>
+    <td valign="top"><img src="./info-card.svg" width="440" alt="Info Card"/></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>guf1ck@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap"/>
+
 </div>
 
-⚡ aboutMe.jsx
-```jsx
-const Rafael = () => {
-    return {
-        name: "Rafael Antunes",
-        alias: "guf1ck",
-        country: "Portugal 🇵🇹",
-
-        code: [
-            "JavaScript",
-            "TypeScript",
-            "Lua",
-            "PHP",
-            "Python"
-        ],
-
-        frameworks: [
-            "React",
-            "Next.js",
-            "Solid.js",
-            "Vue.js",
-            "Svelte",
-            "Astro",
-            "...etc"
-        ],
-
-        databases: [
-            "MySQL",
-            "MariaDB",
-            "SQLite",
-            "Supabase"
-        ],
-
-        currentlyWorkingOn: [
-            "Karma Developments",
-            "Luma Agency"
-        ],
-
-        lifeGoal: "Turn ideas into products used by thousands of people.",
-    };
-};
-
-export default Rafael;
-```
+<br>
 
 ## 💻 Languages & Skills
 [![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/guf1ck)
